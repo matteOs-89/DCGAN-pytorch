@@ -20,10 +20,7 @@ DCGAN is a method where we use convolutional networks to create images.
 
 ## Specification
 
-
-<img width="491" alt="Screenshot 2022-12-31 at 12 06 46" src="https://user-images.githubusercontent.com/111536571/210149472-0ec56952-4d24-48a6-bf2a-c79e4091f5bc.png">
-
-
+<img width="491" alt="Screenshot 2022-12-31 at 12 06 46" src="https://user-images.githubusercontent.com/111536571/210149868-150df46e-1cd9-4bce-9dc3-816edff1b32f.png">
 
 
 
