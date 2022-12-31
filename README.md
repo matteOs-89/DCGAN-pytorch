@@ -1,5 +1,5 @@
 
-                  # Generative Adversarial Network 
+# Generative Adversarial Network 
 ### GANs WAS CREATED BY Ian Goodfella (2014)
 
 
@@ -18,7 +18,7 @@ There are various types of GAN techniques such as WGAN, CircleGAN, however for o
 DCGAN is a method where we use convolutional networks to create images.
 
 
-          ## Specification
+## Specification
 
 
 <img width="491" alt="Screenshot 2022-12-31 at 12 06 46" src="https://user-images.githubusercontent.com/111536571/210149472-0ec56952-4d24-48a6-bf2a-c79e4091f5bc.png">
@@ -35,13 +35,12 @@ DIAGRAM FROM - https://arxiv.org/pdf/1810.03764.pdf
 ## EVALUATION
 
 
-     #### SAMPLES OF DATA USED FOR TRAINING
+#### SAMPLES OF DATA USED FOR TRAINING
 
 <img width="456" alt="Screenshot 2022-12-31 at 12 48 59" src="https://user-images.githubusercontent.com/111536571/210149495-ee051624-feca-4c75-86da-067285c1a55a.png">
 
 
 The dataset used for this tutorial was downloaded from https://www.kaggle.com/code/husnakhan/animal-faces/data.
-
 
 
 
