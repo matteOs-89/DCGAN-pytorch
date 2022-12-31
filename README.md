@@ -73,3 +73,5 @@ During training we observed that Generator continued to improve during training 
 Perhaps if trained for longer the generated images would further improve.
 
 Another way we could improve performance is by completing more training on the Discriminator over the Generator, which will encourage the Generator to create better images to trick the Discriminator.
+
+Author - Eseosa Jesuorobo
