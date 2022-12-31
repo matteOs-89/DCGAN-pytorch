@@ -8,7 +8,8 @@ Generative Adversarial Networks (GAN) are generative frameworks that produce new
 
 The GANs uses two models to achieve this, these are:
 
-•	The Generator – whose job is to distribute fake data similar to the real data in efforts to "trick" the Discriminator (see below); and
+•	The Generator – whose job is to distribute fake data similar to the real data in efforts to "trick" the Discriminator (see below)
+
 •	The Discriminator – which looks at the produced data and predicts if the data provided by the Generator is real or fake.
 
 Repeating this process numerous of times allows the Discriminator to get better at predicting real from fakes, which also pushes the Generator to get better in producing better fakes to the point where the Discriminator is no longer as certain.
